@@ -18,7 +18,7 @@ A set of links about my sites and sites of my interest.
 A good course:
 ==============
 1. [MLGUIDES](https://ml4a.github.io/guides/)
-2. [24 DATA SET] (https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/?utm_source=mail&utm_medium=sendy&utm_campaign=10_Jan_2019_Subscribers_DL&utm_source=newsletter&utm_medium=sendy&utm_campaign=email_marketing)
+2. [24 DATA SET](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/?utm_source=mail&utm_medium=sendy&utm_campaign=10_Jan_2019_Subscribers_DL&utm_source=newsletter&utm_medium=sendy&utm_campaign=email_marketing)
 
 
 
