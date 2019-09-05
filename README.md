@@ -1,17 +1,8 @@
 # my_links
 
-A set of links about my sites and sites of my interest.
+A set of links about  sites of my interest in Machine Learning.
 
 1. Corlysis to  Visualize  [time-series data](https://corlysis.com/grafana/dashboard/db/sigfox1?orgId=620&from=1530606322781&to=1530622425247) from [Influxdb](https://www.influxdata.com/blog/) dataset.
-2. [idati](http://www.idati.it/)
-3. [marco](http://marco.idati.it/)
-4. [giorgio](http://giorgio.idati.it/)
-5. [scuole](http://scuole.idati.it/)
-6. [index](http://www.lumutu.it/SIC/default/index.html)
-7. [web](http://web.lumutu.it/)
-8. [blog](http://blog.idati.it/)
-
-
 
 --------------------------------------------
 
@@ -21,7 +12,4 @@ A good course:
 2. [24 DATA SET](https://www.analyticsvidhya.com/blog/2018/03/comprehensive-collection-deep-learning-datasets/?utm_source=mail&utm_medium=sendy&utm_campaign=10_Jan_2019_Subscribers_DL&utm_source=newsletter&utm_medium=sendy&utm_campaign=email_marketing)
 3. [Simulatore Reti Neurali](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.74228&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false).
 4. [Stanford ConvNET JS Karpathy ](https://cs.stanford.edu/people/karpathy/convnetjs/)
-
-
-
 
