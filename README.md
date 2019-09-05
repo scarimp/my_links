@@ -4,7 +4,8 @@ my_links
 
 A set of links about  sites of my interest in Machine Learning.
 
-1. Corlysis to  Visualize  [time-series data](https://corlysis.com/grafana/dashboard/db/sigfox1?orgId=620&from=1530606322781&to=1530622425247) from [Influxdb](https://www.influxdata.com/blog/) dataset.
+1. [Wikipedia on Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
+2. Corlysis to  Visualize  [time-series data](https://corlysis.com/grafana/dashboard/db/sigfox1?orgId=620&from=1530606322781&to=1530622425247) from [Influxdb](https://www.influxdata.com/blog/) dataset.
 
 --------------------------------------------
 
