@@ -16,5 +16,5 @@ A good course:
 
 Some document of interest:
 ==============
-1. [AGID ITALIA ABOUT AI]
+1. [AGID ITALIA ABOUT AI](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/focus/intelligenza-artificiale)
 
