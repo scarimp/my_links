@@ -21,5 +21,5 @@ A good course:
 Some document of interest:
 ==============
 1. [AGID ITALIA ABOUT AI](https://www.agid.gov.it/it/agenzia/stampa-e-comunicazione/focus/intelligenza-artificiale)
-2.[Whitepaper about AI in Italy]()
+2. [Whitepaper about AI in Italy](https://github.com/scarimp/my_links/blob/master/Whitepaper_AGID_ITALIA2019.pdf)
 
