@@ -13,6 +13,8 @@ A good course:
 
    **25 Open Datasets for Deep Learning Every Data Scientist Must Work With**
 3. [Simulatore Reti Neurali](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.74228&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false).
+
+   * Neural Network Right Here in Your Browser.*
 4. [Stanford ConvNET JS Karpathy ](https://cs.stanford.edu/people/karpathy/convnetjs/)
 
 
