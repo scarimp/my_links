@@ -16,6 +16,7 @@ A good course:
 
     *Neural Network Right Here in Your Browser*
 4. [Stanford ConvNET JS Karpathy ](https://cs.stanford.edu/people/karpathy/convnetjs/)
+   ConvNetJSDeep Learning in your browser
 
 
 Some document of interest:
