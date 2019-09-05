@@ -15,5 +15,6 @@ A good course:
 
 
 Some document of interest:
-1. [AGID ITALIA ABOUT AI]
 ==============
+1. [AGID ITALIA ABOUT AI]
+
